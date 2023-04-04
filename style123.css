@@ -1,0 +1,34 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-image:url("https://wallpaperaccess.com/full/1467776.jpg");
+    object-fit: cover;  
+}
+p::first-line{
+    color:papayawhip;
+    font-size: 20px;
+}
+a:hover{
+    color:green;
+    text-decoration:none;
+}
+h4,p{
+    color:azure;
+}
+.blue{
+    color: orange;
+    font-weight:bolder;
+}
+label{
+    color:bisque;
+}
+legend{
+    color:red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bolder;
+}
+button{
+    color:rgb(235, 12, 12);
+    background-color: greenyellow;
+}
